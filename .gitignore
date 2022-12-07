@@ -1,0 +1,4 @@
+/.idea/
+/node_modules/
+/harvest-historical-data-api.iml
+/.env
